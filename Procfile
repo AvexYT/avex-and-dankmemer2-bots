@@ -1,1 +1,1 @@
-worker: node dankmemer2.
+worker: node dankmemer2.js
